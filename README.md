@@ -1,1 +1,1 @@
-JavaScripts Course Syllabus - Year 2 
+JavaScript Course Syllabus - Year 2 
